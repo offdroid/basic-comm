@@ -1,5 +1,5 @@
 [package]
-name = "basic_comm"
+name = "basic-comm"
 version = "0.1.0"
 edition = "2021"
 
